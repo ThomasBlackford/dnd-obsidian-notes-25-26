@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mine Clearing Job (Graybend).md",
+                "file": "Campaigns/Campaign 1 - The Brass God/Arc 1/Mine Clearing Job (Graybend).md",
                 "mode": "source",
                 "source": false
               },
@@ -168,15 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2b688a1f673fded",
+  "active": "afb6ec7a0a1ec252",
   "lastOpenFiles": [
-    "Campaigns/Campaign 1 - The Brass God/Arc 1/Graybend.md",
-    "Mine Clearing Job (Graybend).md",
-    "Chapel Mystery.md",
-    "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.jpg",
+    "GM Notes and Secrets/Secrets and Threads.md",
     "Campaigns/Campaign 1 - The Brass God/Arc 1/The Adventure - Act 1.md",
-    "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.png",
+    "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.jpg",
+    "Campaigns/Campaign 1 - The Brass God/Arc 1/Graybend.md",
+    "Campaigns/Campaign 1 - The Brass God/Arc 1/Mine Clearing Job (Graybend).md",
+    "Session Notes/Session 1 Notes.md",
     "Session Prep/Session 1.md",
+    "Session Notes",
+    "World Wiki/Basic World Map (Continents).png",
+    "Chapel Mystery.md",
+    "Scholars of Cidrid.md",
+    "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.png",
     "Varethian Dynasty.md",
     "World Wiki/Continents and Regions/Aurius/Aurius.md",
     "The Varethian Dynasty.md",
@@ -185,8 +190,6 @@
     "Assets/Act 1/GraybendMineEntrance.png",
     "Assets/Act 1/RandomForestEncounter(Bandits).png",
     "World Wiki/World Overview - Mundris.md",
-    "World Wiki/Basic World Map (Continents).png",
-    "GM Notes and Secrets/Secrets and Threads.md",
     "GM Notes and Secrets/Connections.md",
     "GM Notes and Secrets/Overview.md",
     "World Wiki/History and Timeline/Timeline.md",
@@ -207,9 +210,6 @@
     "World Wiki/Continents and Regions/Aurius/Aurius Geographical Sub-Sections/The Convergence Belt.md",
     "World Wiki/Continents and Regions/Ausciand/Ausicand Geographical Sub-Sections/Windmere Reach.md",
     "World Wiki/Continents and Regions/Ausciand/Ausicand Geographical Sub-Sections/Western Shore.md",
-    "World Wiki/Continents and Regions/Ausciand/Ausicand Geographical Sub-Sections/Redtine Steppe.md",
-    "World Wiki/Continents and Regions/Ausciand/Ausicand Geographical Sub-Sections/Great Solmir Sands.md",
-    "World Wiki/History and Timeline/Events",
-    "World Wiki/Continents and Regions/Daizora/Daizora Geographical Sub-Features"
+    "World Wiki/History and Timeline/Events"
   ]
 }
