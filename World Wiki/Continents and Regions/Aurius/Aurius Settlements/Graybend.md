@@ -3,7 +3,7 @@
 - Size: Village (around 150 people)
 - Tone: Peaceful, Quiet, Rural
 - Known for: Its logging community.
-- Description: *A small quiet village situated on the western edge of The Northern Plains, only a few days ride from the coast. Well-Known for its logging companies and abandoned mine.*
+- Description: *A small quiet village situated on the western edge of The [[Northern Plains]], only a few days ride from the coast. Well-Known for its logging companies and abandoned mine.*
 
 ### Key Locations
 - The Stump Pub 

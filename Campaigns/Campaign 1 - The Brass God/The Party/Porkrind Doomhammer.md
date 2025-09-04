@@ -1,0 +1,6 @@
+- Origin: Born in the [[Eldertangle Woods]], where ancient trees whisper to those who listen.
+- Background: As a youth, wandered from his tribe and met the wandering druid known only as the "[[Man of Bark]]". Learned fragments of druidic wisdom-patience of trees, fury of storms. Though a barbarian by nature, he carries echoes of this teaching, balancing instinct with nature's counsel. Acts neutrally, bound more to survival and the woods than to gods or kings.
+- Goals:
+	- Short-term: Eat a truly delicious, healthy meal.
+	- Medium-term: Build a bizarre home in the Eldertangle, a house of horse shit filled with vases.
+	- Long-term: Find real traces of the "Man of Bark".
