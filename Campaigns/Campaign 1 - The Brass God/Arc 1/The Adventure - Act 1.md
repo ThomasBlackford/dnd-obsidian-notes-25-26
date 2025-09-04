@@ -2,7 +2,7 @@
 
 ### **Opening Scene – The Stump Pub**
 
-The party begins their journey in the quiet logging village of [[Greybend]], gathered at the well-worn local tavern, **The Stump Pub**.
+The party begins their journey in the quiet logging village of [[Graybend]], gathered at the well-worn local tavern, **The Stump Pub**. The Stump Pub sits just off the Stonefoot Trail, its timbered walls clinging to the northern slopes of the Dunlin’s Spine. The trail carries travelers and traders through the foothills, but few linger here — Graybend is a quiet town, its people used to fending for themselves against forest, river, and old mine alike. Beyond the pub’s smoky windows, the northern ridge juts into mist, hiding both timber and trouble, and the occasional tremor shakes the very floors you sit upon.
 
 - Prompt each player:  
     _What brings your character to this sleepy village? Why are you in the pub tonight? What are you doing as the scene opens?_  
