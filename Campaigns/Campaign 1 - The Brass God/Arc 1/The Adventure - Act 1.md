@@ -101,8 +101,7 @@ A large circular chamber with a **cracked, rusted altar** at its center.
         
 
 Behind a **faded statue**, a **narrow crevice** leads into an **old mining tunnel**. A **rope ladder** descends from a half-collapsed shaft above, offering a route back to the surface—likely surfacing near the old Greybend mine.
-
-## Session 2 - The Aftermath
+# **Session 2 - The Aftermath
 After the party surfaces, they see Greybend in the distance. Intact, but smoking, and villagers gathering, having felt the quake.
 
 ### Consequences #dm-only
@@ -115,5 +114,88 @@ Some more wide-spread and notable reactions.
 - In Wavehold, rumors flood in from traders and locals. Some nobles are curious, dispatching scouts to the area. Most treat it as a random event, just a mine collapsing.
 - Other towns know of the event, but think nothing of it. Just an unlucky situation.
 - Word of this quake has gotten word to [[Varethian Dynasty]], who seems to know something about the region and are investigating.
-  
-  
+
+
+### Opening Scene 
+   The party emerges from the old mining tunnel, blinking against the dull orange haze that blankets the village. Smoke curls lazily from chimneys, mingling with the faint scent of scorched wood. Fires from toppled hearths cast flickering shadows across cracked stonework. The chapel bell tolls with a mournful rhythm, warning the villagers of some unseen threat.
+
+As the party walks toward the heart of Graybend, murmurs ripple through the crowd. Snippets of conversation reach their ears:
+
+- "The mines given out! I knew they dug too deep!"
+    
+- "A curse, I tell you. The gods don’t shake the earth for no reason."
+    
+- "No, no, my uncle says the old tunnels were sealed for a reason… something foul sleeps down there!"
+    
+
+Several villagers stop, staring at the party. Covered in dust and emerging like specters from the earth, the adventurers are met with a mix of awe, fear, and suspicion. Are they heroes? Survivors? Or the cause of this chaos?
+
+### The Scholars of Cidrid
+Robed figures move with precise, measured steps, sketching fissures and collecting soil samples. They whisper to each other in low tones, eyes darting toward ley lines and the subtle quiver of the ground.
+
+### If Approached:
+
+- Polite but evasive, probing the PCs gently about what they witnessed underground.
+    
+- Questions about their purpose are deftly dodged.
+    
+
+### If Ignored:
+
+- Quietly shadow the party, waiting for a private moment later in the day to ask pointed questions.
+    
+
+**Flavor cues:**
+
+- One scholar sets a crystal orb against a fissure, murmuring an incantation that makes the ground tremble faintly.
+    
+- Another sketches arcane glyphs over broken stone, pausing to squint at the horizon.
+### The Wavehold Scouts
+A contingent of mounted soldiers from Wavehold arrives, armor clanking and boots stirring dust. Their mission: "secure the region," though their tone leans more toward intimidation than protection. (These are Hoxaand Empire soldiers essentially.)
+
+- Villagers cower under their scrutiny, while the scouts bark questions, demanding answers and obedience.
+    
+- PCs may intervene, negotiate, or quietly observe. Their actions here can **gain favor with locals or earn the scouts’ resentment**.
+    
+
+### Day 2
+After the PCs finish exploring town and rest at the makeshift camp (the tavern is too damaged to stay in), they awaken to frantic shouting and the sound of villagers gathering.
+
+A **hysterical merchant** is pleading for help:
+
+- His latest shipment of **gold and goods** has been seized by bandits.
+- The shipment was destined for **Hoxanad tax collectors**—without it, the empire will seize his property, enslave his family, and ruin him.
+- The bandits are holed up in the **collapsed Graybend Mine**, taking advantage of the chaos after the quake.
+
+He offers **what little coin he has left** and the gratitude of his household, but the real pressure comes from the **moral stakes**: if the PCs do nothing, his family is doomed and Hoxanad authority in the region will tighten even further.
+
+This dungeon takes place in the [[Graybend Mine]] which contains an entrance to the Underdark and has a shrine to Lolth. Inside this Dungeon, there is a rat den, bandits with the bandit thug leader, along with a [[Caelmithar]] letter from an agent.
+
+**MENTION SPORES IN A ROOM**
+
+### **Letter Found in the Bandit Camp**
+
+> _To Whom It Concerns,_
+> 
+> The shipment from [[Graybend]] must not reach its destination. Ensure the gold and supplies are delayed, intercepted, or hidden as discussed. Timing is critical—Hoxanad’s eyes are on the roads, and any mistakes will be costly.
+> 
+> Leave no evidence linking our cause to your hand. Follow the instructions of the agent carefully. The **oak and crescent** will guide you to the correct path.
+> 
+> Remember: this is not merely about profit. What you carry is a message as much as it is coin. The nobles of [[Caelmithar]] have their interests; make certain they remain unaware. If questions are asked, you know nothing.
+> 
+> Success will be rewarded. Failure will be remembered.
+
+Loot inside the dungeon:
+A body has a healing potion by the rat den.
+First bandit room has 10gp total.
+Second bandit room (main room) has 15gp, map of surrounding area with routes and such marked on it.
+Lolth Shrine: 10GP of small offerings, 1 potion of spider climbing.
+
+After the party deals with the merchant’s quest and brings back the shipment, **a villager collapses near the chapel**. Their skin is pale and clammy, with faint greenish lesions at the edges of their veins. A worried healer insists it’s just exhaustion from the quake—but **Anima recognizes faint traces of spores or rot**, eerily similar to what they saw in Mossden.
+
+- **Investigation / Nature DC 12–15** → Anima confirms it’s **not a local sickness**; the spores are spreading through dust disturbed by the quake.
+    
+- If Anima fails, the PCs just see “strange sickness,” planting the seed for later sessions.
+    
+- **Clue to find:** In the Graybend mines, where the bandits were hiding, one chamber may have had fungal growths feeding on the quake-exposed fissures. The bandits might even be coughing from spore exposure.
+

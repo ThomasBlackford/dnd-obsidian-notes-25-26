@@ -6,3 +6,14 @@
 	- Short - Term: Find Friends/Companions.
 	- Medium-term: Learn the art of disguise >?
 	- Long-term: Discover who killed his brother and clear his name.
+- Exactly — Leo’s backstory is that his **half-elf father’s noble line had a full-elf heir (his younger brother)** who was mysteriously killed. The blame was pinned on Leo, forcing him to flee and adopt a new identity.
+
+The key points you can use:
+
+- **Political intrigue:** The murder is tied to **Caelmithar elites** who wanted control of the noble estate.
+    
+- **Mystery:** No one publicly knows the truth, only a few insiders. This allows you to drip hints over time.
+    
+- **Potential NPCs:** Scholars, messengers, or minor nobles in towns could drop subtle references or rumors about “disappearances in Caelmithar” or “noble quarrels.”
+    
+- **Motivation:** Leo’s arc revolves around **clearing his name and uncovering who actually killed his brother** — perfect for side quests, investigations, or political maneuvering.
