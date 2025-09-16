@@ -138,8 +138,6 @@ Robed figures move with precise, measured steps, sketching fissures and collecti
 - Polite but evasive, probing the PCs gently about what they witnessed underground.
     
 - Questions about their purpose are deftly dodged.
-    
-
 ### If Ignored:
 
 - Quietly shadow the party, waiting for a private moment later in the day to ask pointed questions.
@@ -190,6 +188,8 @@ A body has a healing potion by the rat den.
 First bandit room has 10gp total.
 Second bandit room (main room) has 15gp, map of surrounding area with routes and such marked on it.
 Lolth Shrine: 10GP of small offerings, 1 potion of spider climbing.
+
+---
 
 After the party deals with the merchant’s quest and brings back the shipment, **a villager collapses near the chapel**. Their skin is pale and clammy, with faint greenish lesions at the edges of their veins. A worried healer insists it’s just exhaustion from the quake—but **Anima recognizes faint traces of spores or rot**, eerily similar to what they saw in Mossden.
 
