@@ -1,0 +1,1 @@
+The Deep North is a large area of floating ice sheets in the North of [[Aurius]]. This area is home to many dangerous creatures, outlaws, monsters that hide away from civilization. Finding safe areas and shelter is very rare here. One of the [[5 Great Dragons]], [[Durgarmorndin]] resides here in a [[The Great Spire of Ice]].

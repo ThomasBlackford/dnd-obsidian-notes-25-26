@@ -1,5 +1,5 @@
 #unfinished
-One shattered by the Sundering Convergence, Aurius is one of the most prosperous continents on (placeholder planet) Post-Sundering. It has 3 states vying for control. The [[Hoxanad Empire]], the [[Varethian Dynasty]], and the [[Cidrid Kingdom]]. 
+Once shattered by the Sundering Convergence, Aurius is one of the most prosperous continents on (placeholder planet) Post-Sundering. It has 4 states vying for control. The [[Hoxanad Empire]], the [[Varethian Dynasty]], The [[Caelmithar]] Throne, and the [[Cidrid Kingdom]]. 
 
 ### Geographical Features
 Aurius has many geographical features and can be divided up into 3 sections. The [[Northern Plains]], [[The Convergence Belt]], and [[Vareth's Landing]].
@@ -7,7 +7,8 @@ Aurius has many geographical features and can be divided up into 3 sections. The
 ### Political Landscape
 - The [[Hoxanad Empire]] dominates the [[Northern plains]] with military strength and aggressive expansion.
 - The [[Cidrid Kingdom]] controls much of [[the Convergence belt]] and seeks to exploit its resources with its council of High-Scholars.
-- The [[Varethian Dynasty]], oldest of the tree, holds [[Vareth's Landing]], the fabled cradle of civilization on Aurius, but has declined in power.
+- The [[Varethian Dynasty]], oldest of the four, holds [[Vareth's Landing]], the fabled cradle of civilization on Aurius, but has declined in power.
+- The [[Caelmithar]] Throne resides in the East of the [[Northern Plains]], past the [[Ashroot Basin]]. They are seen as shadowy figures and not much is known of their land from outsiders.
 
 #### Current Tensions: 
 - Hoxanad forces are pressing southward, challenging Cidrid's border fortresses and creating tension.

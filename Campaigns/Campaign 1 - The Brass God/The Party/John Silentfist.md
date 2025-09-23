@@ -1,4 +1,4 @@
-- Origin: Raised in a monastery, trained in martial arts and monk traditions.
+-  Origin: Raised in a monastery, trained in martial arts and monk traditions.
 - Background: His monastery was destroyed in an unsolved fire. Now wanders the land, refining his craft and testing himself against other martial artists. Known for his quiet discipline and obsession with perfecting the art of the punch.
 - Goals:
 	- Short-term: Refine his punching ability.

@@ -1,0 +1,1 @@
+Mossden is a small but prosperous Elven Village existing just on the eastern side of the [[Ashroot Basin]] in the continent of [[Aurius]].

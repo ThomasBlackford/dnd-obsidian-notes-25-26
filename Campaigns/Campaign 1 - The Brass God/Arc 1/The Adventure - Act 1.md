@@ -191,11 +191,9 @@ Lolth Shrine: 10GP of small offerings, 1 potion of spider climbing.
 
 ---
 
-After the party deals with the merchant’s quest and brings back the shipment, **a villager collapses near the chapel**. Their skin is pale and clammy, with faint greenish lesions at the edges of their veins. A worried healer insists it’s just exhaustion from the quake—but **Anima recognizes faint traces of spores or rot**, eerily similar to what they saw in Mossden.
 
-- **Investigation / Nature DC 12–15** → Anima confirms it’s **not a local sickness**; the spores are spreading through dust disturbed by the quake.
-    
-- If Anima fails, the PCs just see “strange sickness,” planting the seed for later sessions.
-    
-- **Clue to find:** In the Graybend mines, where the bandits were hiding, one chamber may have had fungal growths feeding on the quake-exposed fissures. The bandits might even be coughing from spore exposure.
 
+# Session 3
+The party has failed to save all of the merchants goods, and he will be doomed if they do not find a solution. When they arrive back in town, they witness a sickly pale man collapse in the middle of the street as a crowd forms around him. Passing a medicine check can reveal roots emerging from his lungs, killing him. This can be deduced to be the [[Rootrot]]. The [[Scholars of Cidrid]] show up and begin to carry his body out, to the disgust of the villagers. The party can either look the other way, try and convince them to leave the body to be buried, or try and fight them.
+
+After the Chapel incident, the party can witness the merchant talking to Hoxanad Scouts off to the side. 
