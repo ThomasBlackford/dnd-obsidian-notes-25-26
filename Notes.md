@@ -1,0 +1,1 @@
+The Core - In the Eldertangle woods, it is the heart of those woods, the soul of those woods, mordo has gone insane, losing all his friends. He wants us to return it.
