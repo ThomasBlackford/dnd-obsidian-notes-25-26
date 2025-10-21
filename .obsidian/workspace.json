@@ -25,12 +25,14 @@
             "id": "e8debb21cea70725",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Arc 1/Act 2/SporeBattlemap.png"
+                "file": "Campaigns/Campaign 1 - The Brass God/Arc 1/The Greater Issue - Act 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "SporeBattlemap"
+              "icon": "lucide-file",
+              "title": "The Greater Issue - Act 2"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Arc 1/Act 2/SporeBattlemap.png",
+                "file": "Campaigns/Campaign 1 - The Brass God/Arc 1/The Greater Issue - Act 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SporeBattlemap"
+              "title": "Backlinks for The Greater Issue - Act 2"
             }
           },
           {
@@ -182,8 +184,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "afb6ec7a0a1ec252",
+  "active": "e8debb21cea70725",
   "lastOpenFiles": [
+    "Assets/Arc 1/Act 2/forgeheart.jpg",
+    "Assets/Arc 1/Act 2/rootedcityforgedistrict1.jpg",
+    "Assets/Arc 1/Act 2/RootedCityJunction.jpg",
+    "Assets/Arc 1/Act 2/SporeBattlemap.png",
     "Assets/Arc 1/Act 2/rootedCity1.jpg",
     "Assets/Arc 1/Act 2/Krazzh Farmstead.png",
     "Assets/Arc 1/Act 2/krazzh lab.jpg",
@@ -195,10 +201,6 @@
     "Campaigns/Campaign 1 - The Brass God/Arc 1/The Greater Issue - Act 2.md",
     "Campaigns/Campaign 1 - The Brass God/Arc 1/The Adventure - Act 1.md",
     "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.png",
-    "Assets/Arc 1/Act 2/UnderdarkEntrance2.png",
-    "Assets/Arc 1/Act 2/UnderdarkEntrance1.png",
-    "Assets/Arc 1/Act 2/SporeBattlemap.png",
-    "Campaigns/Campaign 1 - The Brass God/Arc 1/Regional Map.jpg",
     "Assets/Arc 1/Act 2",
     "Assets/Arc 1",
     "Varethian Dynasty.md",
