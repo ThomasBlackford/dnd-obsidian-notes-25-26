@@ -1,6 +1,0 @@
-- Origin: Born in [[Durgarmorndin]] - ("Mountain of Dragons"), later left to study druidic magic with elves in [[Mossden]].
-- Background: Faced mild discrimination for being a dragonborn but was permitted to stay under watch. Over 15 years earned trust and independence before leaving to wander, seeking to help others. Dedicated to freeing dragons from the roles forced upon them by their color.
-- Goals:
-	- Short-term: Bring back 75g to [[Durgarmorndin]] to help his people survive the winter.
-	- Medium-term: Find a way to heal the rot plaguing [[Mossden]], his adopted elven home.
-	- Long-term: Defeat [[Viridis]], a vile green dragon.

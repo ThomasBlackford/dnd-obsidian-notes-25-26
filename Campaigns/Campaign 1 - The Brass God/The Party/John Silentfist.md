@@ -1,7 +1,0 @@
--  Origin: Raised in a monastery, trained in martial arts and monk traditions.
-- Background: His monastery was destroyed in an unsolved fire. Now wanders the land, refining his craft and testing himself against other martial artists. Known for his quiet discipline and obsession with perfecting the art of the punch.
-- Goals:
-	- Short-term: Refine his punching ability.
-	- Medium-term: Defeat renowned martial artists to prove his skill.
-	- Long-term: Discover who burned his monastery and avenge it.
-	- End goal: Establish his own monastery, dedicated to the art of the silent martial arts.

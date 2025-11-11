@@ -1,6 +1,0 @@
-- Origin: Heir to a goliath empire. Destined to succeed the king until betrayed by his own people for reckless and careless behavior.
-- Background: Infamous for his "Fucketh Around and Find Out" mindset. Ambushed by family and left to die in a river. Survived but suffers from amnesia. His low intelligence and wisdom reflect memory loss. Haunted by flashbacks of his betrayal. Now vows to temper his strength with empathy, seeking redemption while acting as a loyal "muscle for hire" alongside his companions.
-- Goals:
-	- Short-term: Recover lost memories and relearn the world (with the help of friends).
-	- Medium-term: Build a new family.
-	- Long-term: Redeem himself and eventually take revenge on those who betrayed him.

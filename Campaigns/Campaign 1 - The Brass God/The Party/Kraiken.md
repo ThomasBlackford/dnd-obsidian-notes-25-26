@@ -1,5 +1,0 @@
--  Origin: Born in the capital, raised in a famous family band loved by the people.
--  Background: Behind their public success, his parents where abusive. After killing them in self-defense, he was branded a criminal by the capital guard and forced to flee. Now survives by performing in taverns until recognition drives him onward again. Haunted by his family's legacy but seeks peace and redemption.
-- Goals:
-	- Medium: Befriend townsfolk who can vouch for his true character.
-	- Long: Prove his innocence and restore his reputation, gaining the world's favor.

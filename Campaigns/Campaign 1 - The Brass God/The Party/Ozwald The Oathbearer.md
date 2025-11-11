@@ -1,6 +1,0 @@
-- Origin: Born to an orc tribe, but as a baby was captured when his village was raided by a nearby port town. (Revenge for the tribes attacks on traders.)
-- Background: Raised in a monastery as a choir boy, indoctrinated into the church's faith and trained as a paladin. Became a respected defender of the town. Now serves as a missionary, traveling to orc communities in hopes of civilizing them through religion.
-- Goals:
-	- Short-term: Uncover what happened to his orc family and village.
-	- Medium-term: Learn and reconnect with true orc culture, which he was cut off from.
-	  - Long-term: Civilize and bring pride to the orc race via religious conversion.
